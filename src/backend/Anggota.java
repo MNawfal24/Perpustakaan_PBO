@@ -19,6 +19,7 @@ public class Anggota {
         this.telepon = telepon;
     }
 
+    
     public int getIdanggota() {
         return idanggota;
     }
